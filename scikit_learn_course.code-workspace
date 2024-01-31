@@ -6,9 +6,11 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"bargap",
 			"darkgrid",
 			"facecolor",
-			"figsize"
+			"figsize",
+			"nbins"
 		]
 	}
 }
