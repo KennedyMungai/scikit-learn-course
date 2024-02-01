@@ -10,7 +10,8 @@
 			"darkgrid",
 			"facecolor",
 			"figsize",
-			"nbins"
+			"nbins",
+			"scatterplot"
 		]
 	}
 }
