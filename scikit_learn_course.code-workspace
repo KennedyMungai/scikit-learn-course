@@ -11,7 +11,9 @@
 			"facecolor",
 			"figsize",
 			"nbins",
-			"scatterplot"
+			"scatterplot",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
