@@ -9,6 +9,7 @@
 			"bargap",
 			"barplot",
 			"darkgrid",
+			"dropna",
 			"facecolor",
 			"figsize",
 			"nbins",
