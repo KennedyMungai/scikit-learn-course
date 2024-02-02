@@ -12,6 +12,7 @@
 			"facecolor",
 			"figsize",
 			"nbins",
+			"opendatasets",
 			"scatterplot",
 			"Scikit",
 			"toarray",
