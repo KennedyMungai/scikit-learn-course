@@ -11,6 +11,7 @@
 			"countplot",
 			"darkgrid",
 			"dropna",
+			"dtypes",
 			"facecolor",
 			"figsize",
 			"nbins",
