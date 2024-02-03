@@ -20,6 +20,7 @@
 			"nbins",
 			"nunique",
 			"opendatasets",
+			"preds",
 			"scatterplot",
 			"Scikit",
 			"toarray",
