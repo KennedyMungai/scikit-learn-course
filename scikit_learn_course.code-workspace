@@ -16,6 +16,7 @@
 			"figsize",
 			"fillna",
 			"isna",
+			"liblinear",
 			"nbins",
 			"nunique",
 			"opendatasets",
