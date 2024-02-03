@@ -15,6 +15,7 @@
 			"facecolor",
 			"figsize",
 			"nbins",
+			"nunique",
 			"opendatasets",
 			"scatterplot",
 			"Scikit",
