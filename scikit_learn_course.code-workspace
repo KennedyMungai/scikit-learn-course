@@ -22,6 +22,7 @@
 			"nunique",
 			"opendatasets",
 			"preds",
+			"proba",
 			"scatterplot",
 			"Scikit",
 			"toarray",
