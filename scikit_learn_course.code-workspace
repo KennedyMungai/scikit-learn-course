@@ -24,6 +24,7 @@
 			"opendatasets",
 			"preds",
 			"proba",
+			"probs",
 			"scatterplot",
 			"Scikit",
 			"toarray",
