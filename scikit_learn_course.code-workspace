@@ -17,6 +17,7 @@
 			"figsize",
 			"fillna",
 			"isna",
+			"joblib",
 			"liblinear",
 			"nbins",
 			"nunique",
