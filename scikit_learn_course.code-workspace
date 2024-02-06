@@ -16,6 +16,7 @@
 			"facecolor",
 			"figsize",
 			"fillna",
+			"histplot",
 			"isna",
 			"joblib",
 			"liblinear",
