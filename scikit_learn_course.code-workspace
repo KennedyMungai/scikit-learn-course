@@ -20,6 +20,7 @@
 			"isna",
 			"joblib",
 			"liblinear",
+			"linreg",
 			"nbins",
 			"nunique",
 			"opendatasets",
