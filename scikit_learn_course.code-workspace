@@ -17,6 +17,7 @@
 			"figsize",
 			"fillna",
 			"histplot",
+			"importances",
 			"isna",
 			"joblib",
 			"liblinear",
